@@ -2,6 +2,11 @@
 General Documentation, for technical specs and custom classes etc
 
 
+
+https://github.com/user-attachments/assets/dc482f79-74d9-4e85-b6b2-95b8794a168d
+
+
+
 # Project Tickets
 When making an open ticket assign a value between 1-10 with 1-10 being the most labour intense/time consuming
 This will help when coordinating different tasks, like picking off some low hanging fruit
